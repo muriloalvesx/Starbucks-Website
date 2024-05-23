@@ -1,6 +1,6 @@
-## Starbucks - HomePage para Estudos 📒
+## Starbucks - Website para Estudos 📒
 
-HomePage desenvolvido para fins de estudo.
+Website desenvolvido para fins de estudo.
 
 ### Tecnologias Utilizadas
 
@@ -11,6 +11,6 @@ HomePage desenvolvido para fins de estudo.
 </div><br/>
 
 <div style="display: flex"><br/>
-<img align="center" alt="homepage1"src="https://github.com/muriloalvesx/Starbucks-Website/assets/153781890/513428ea-d172-4d14-9b49-8cf60188d663" width="400px"/>
-<img align="center" alt="homepage2"src="https://github.com/muriloalvesx/Starbucks-Website/assets/153781890/da0e957e-668e-45d1-ab8a-1dd410b14267" width="400px"/>
+<img align="center" alt="homepage1"src="https://github.com/muriloalvesx/Starbucks-Website/assets/153781890/ed832987-526c-4e36-8cfa-6d8c6d933d2d" width="390px"/>
+<img align="center" alt="homepage2"src="https://github.com/muriloalvesx/Starbucks-Website/assets/153781890/5f0630dd-78ae-4cb7-80ef-cf01bae5b1c3" width="410px"/>
 </div><br/>
